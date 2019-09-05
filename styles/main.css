@@ -92,10 +92,12 @@ input[type=button]:active {
  }
  section > p:first-of-type {
     font-family: Georgia, serif;
-    font-size: 1.6em;
+    font-size: 1.3em;
     font-weight: 700;
     /* color: blue; */
     font-style: italic;
+    text-align: left;
+    margin-left: 79px;
 }
  aside {
      float: right;
